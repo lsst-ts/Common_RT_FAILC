@@ -12,6 +12,7 @@
 		<Item Name="FAResponses.ctl" Type="VI" URL="../DataTypes/FAResponses.ctl"/>
 		<Item Name="FASettings.ctl" Type="VI" URL="../DataTypes/FASettings.ctl"/>
 		<Item Name="FATelemetry.ctl" Type="VI" URL="../DataTypes/FATelemetry.ctl"/>
+		<Item Name="FATimings.ctl" Type="VI" URL="../DataTypes/FATimings.ctl"/>
 		<Item Name="FATypes.ctl" Type="VI" URL="../DataTypes/FATypes.ctl"/>
 	</Item>
 	<Item Name="DAAILC.lvclass" Type="LVClass" URL="../DAAILC/DAAILC.lvclass"/>
