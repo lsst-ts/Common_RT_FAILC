@@ -8,7 +8,6 @@
 		<Item Name="FACommand.ctl" Type="VI" URL="../DataTypes/FACommand.ctl"/>
 		<Item Name="FAConstants.ctl" Type="VI" URL="../DataTypes/FAConstants.ctl"/>
 		<Item Name="FAData.ctl" Type="VI" URL="../DataTypes/FAData.ctl"/>
-		<Item Name="FAPID.ctl" Type="VI" URL="../DataTypes/FAPID.ctl"/>
 		<Item Name="FAResponses.ctl" Type="VI" URL="../DataTypes/FAResponses.ctl"/>
 		<Item Name="FASettings.ctl" Type="VI" URL="../DataTypes/FASettings.ctl"/>
 		<Item Name="FATelemetry.ctl" Type="VI" URL="../DataTypes/FATelemetry.ctl"/>
